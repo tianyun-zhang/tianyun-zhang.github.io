@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "More About Me"
+title: "Me"
 permalink: /me/
 author_profile: true
 ---

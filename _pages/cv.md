@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf" type="CV/pdf" width="700px" height="700px">
+Download a PDF of my CV [here](https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf).
+
+<!-- <object data="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf" type="CV/pdf" width="700px" height="700px">
     <embed src="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf">
-        <p>Alternatively, download a PDF<a href="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf"> here</a>.</p>
+        <p>Alternatively, download a PDF <a href="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf">here</a>.</p>
     </embed>
-</object>
+</object> -->
 
 <!-- 
 Education

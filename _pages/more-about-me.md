@@ -5,9 +5,6 @@ permalink: /me/
 author_profile: true
 ---
 
-More About Me
-======
-
 In my free time, I like to play violin and rock climb!
 
 Currently, I'm a first violinist in Carnegie Mellon University's [All University Orchestra (AUO)](http://alluniversityorchestra.org/). 

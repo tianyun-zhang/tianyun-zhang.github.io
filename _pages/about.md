@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a first year ECE PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I'm working on computer architecture research with Professor [Franz Franchetti](http://users.ece.cmu.edu/~franzf/). 
+Hello! I'm a first year Electrical and Computer Engineering PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I'm working on computer architecture research with Professor [Franz Franchetti](http://users.ece.cmu.edu/~franzf/). 
 
 Previously, I received a bachelor's degree in Computer Science and Economics, with minors in Applied Statistics and Mathematics from the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) in May 2023. I was a part of Professor [Saugata Ghose](https://ghose.web.illinois.edu/)'s research group at UIUC, working on processing-using-memory (PUM) architectures.
 

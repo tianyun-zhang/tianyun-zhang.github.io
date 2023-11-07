@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf" type="CV/pdf" width="700px" height="700px">
+    <embed src="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf">
+        <p>Alternatively, download a PDF<a href="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf"> here</a>.</p>
+    </embed>
+</object>
+
+<!-- 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -56,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

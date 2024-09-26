@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a PDF of my CV [here](https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202402_general.pdf).
+Download a PDF of my CV [here](https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202409_general.pdf).
 
 <!-- <object data="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf" type="CV/pdf" width="700px" height="700px">
     <embed src="https://tianyun-zhang.github.io/files/tianyun_zhang_cv_202311_general.pdf">
